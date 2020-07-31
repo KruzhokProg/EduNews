@@ -44,7 +44,7 @@ public class NewsDataSource2 extends PositionalDataSource<News> {
 
             @Override
             public void onFailure(Call<List<News>> call, Throwable t) {
-
+                // new branch
             }
         });
 
