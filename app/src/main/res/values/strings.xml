@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EduNews</string>
+    <string name="dummy">"Первое проявление счастья - долголетие"</string>
+    <string name="dummyDesc">Уходящая неделя несомненно запомнится участникам проекта Мэра «Московское долголетие»: ведь их вниманию были представлены онлайн занятия на самые разнообразные темы – от садоводства до танцев, от виртуальных путешествий по городам Восточной Европы до психологических тонкостей взаимоотношений.</string>
+    <string name="old">//                Document doc = Jsoup.parse(data.get(4).getDescription().getRendered());
+//                Elements pElements = doc.select("p");
+//                for (Element pElement : pElements) {
+//                    String text = pElement.html();
+//                    out.append("<p>" + text + "</p><br/>");
+//                }
+
+//                tv.setText(Html.fromHtml(pElements.html(), Html.FROM_HTML_MODE_COMPACT));</string>
+</resources>
