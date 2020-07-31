@@ -8,7 +8,7 @@ public class NewsDataSource2 extends PositionalDataSource<News> {
 
     @Override
     public void loadInitial(@NonNull LoadInitialParams params, @NonNull LoadInitialCallback<News> callback) {
-
+        // some changes
     }
 
     @Override
